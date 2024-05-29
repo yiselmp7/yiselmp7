@@ -2,12 +2,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning programming
+- 🌱 I’m currently learning Frontend Developing skills
 - 👯 I’m looking to collaborate on Art related projects
 - 🤔 I’m looking for help with UI/UX design
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: yisel.mengelle@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: ...
 -->
